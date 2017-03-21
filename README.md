@@ -4,7 +4,7 @@
 
 |   |   |   |   |
 |---|:-:|:-:|:-:|
-| packages name   |   | kit ng2   | kit ng4  |
+| packages name   |  kit ng2 |    | kit ng4  |
 | @angular/common|                        ^2.4.10|   →       |^4.0.0-rc.5|
 | @angular/compiler|                      ^2.4.10|   →       |^4.0.0-rc.5|
 | @angular/core|                          ^2.4.10|   →       |^4.0.0-rc.5|
