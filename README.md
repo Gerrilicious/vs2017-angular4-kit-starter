@@ -18,7 +18,8 @@
 # ng2 is working
 # ng4 is have error 
 
-```ERROR in [at-loader] ./node_modules/angular2-platform-node/node-platform.d.ts:1:10 
+```
+ERROR in [at-loader] ./node_modules/angular2-platform-node/node-platform.d.ts:1:10 
 TS2305: Module '"C:/dotnet-aspnet-core-angular/node_modules/@angular/platform-browser/platform-browser"' has no exported member 'AnimationDriver'.
 
 ERROR in [at-loader] ./node_modules/angular2-platform-node/node-renderer.d.ts:2:10 
