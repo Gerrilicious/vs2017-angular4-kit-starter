@@ -1,15 +1,19 @@
 # vs2017-angular4-kit-starter
 
 #The difference between the two kit (ng2 & ng4)
-  @angular/common                        ^2.4.10   →       ^4.0.0-rc.5
-  @angular/compiler                      ^2.4.10   →       ^4.0.0-rc.5
-  @angular/core                          ^2.4.10   →       ^4.0.0-rc.5
-  @angular/forms                         ^2.4.10   →       ^4.0.0-rc.5
-  @angular/http                          ^2.4.10   →       ^4.0.0-rc.5
-  @angular/platform-browser              ^2.4.10   →       ^4.0.0-rc.5
-  @angular/platform-browser-dynamic      ^2.4.10   →       ^4.0.0-rc.5
-  @angular/platform-server               ^2.4.10   →       ^4.0.0-rc.5
-  @angular/router                        ^3.4.10   →       ^4.0.0-rc.5
+
+|   |   |   |   |
+|---|:-:|:-:|:-:|
+| packages name   |   | kit ng2   | kit ng4  |
+| @angular/common|                        ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/compiler|                      ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/core|                          ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/forms|                         ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/http|                          ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/platform-browser|              ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/platform-browser-dynamic|      ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/platform-server|               ^2.4.10|   →       |^4.0.0-rc.5|
+| @angular/router|                        ^3.4.10|   →       |^4.0.0-rc.5|
   
 # ng2 is working
 # ng4 is have error 
