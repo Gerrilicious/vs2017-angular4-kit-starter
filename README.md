@@ -16,7 +16,7 @@
 | @angular/router|                        ^3.4.10|   →       |^4.0.0-rc.5|
   
 # ng2 is working
-# ng4 is have error 
+# ng4 is have error https://github.com/angular/angular/issues/15332
 
 ```
 ERROR in [at-loader] ./node_modules/angular2-platform-node/node-platform.d.ts:1:10 
