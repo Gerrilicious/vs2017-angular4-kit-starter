@@ -30,10 +30,10 @@ TS2305: Module '"C:/dotnet-aspnet-core-angular/node_modules/@angular/platform-br
 
 ## clonning or ....
 
-1) instal VS2017 Comunity and node 7.7.3
-2) instal in terminal `PS> dotnet new --install Microsoft.AspNetCore.SpaTemplates::* `
+1) install VS2017 Comunity and node 7.7.3
+2) install in terminal `PS> dotnet new --install Microsoft.AspNetCore.SpaTemplates::* `
 3) crate new in terminal `PS> dotnet new angular`
-4) instal in terminal `npm i -g npm-upgrade` or `yarn global add npm-upgrade`
+4) install in terminal `npm i -g npm-upgrade` or `yarn global add npm-upgrade`
 5) upgrade in terminal `npm-upgrade`
 .) next open `package.json` and change `angular` from `2.4.10` to `4.0.0-rc.5`
 6) in terminal `npm install` or `yarn`
